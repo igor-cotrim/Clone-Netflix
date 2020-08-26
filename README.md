@@ -49,7 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### NetflixClone ([React](https://pt-br.reactjs.org/) + [JavaScript](https://www.javascript.com)
+#### NetflixClone ([React](https://pt-br.reactjs.org/) + [JavaScript](https://www.javascript.com))
 
 - [React Dom](https://pt-br.reactjs.org/docs/react-dom.html)
 - [React Scripts](https://www.npmjs.com/package/react-scripts)
