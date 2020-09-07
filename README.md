@@ -24,7 +24,7 @@ Project designed to test knowledge about ReactJS. Using the Themoviedb.org websi
 
 ---
 
-## How to run
+## How to run 🚀
 
 ```sh
 # Clone this repository
