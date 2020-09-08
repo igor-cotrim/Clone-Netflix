@@ -8,6 +8,7 @@
 
 <p align="center">
  <a href="#about-">About</a> •
+ <a href="#deploy-">Deploy</a> •
  <a href="#how-to-run-ℹ">How to run</a> • 
  <a href="#technology-">Technology</a> • 
  <a href="#license-">License</a> • 
@@ -23,6 +24,12 @@ Project designed to test knowledge about ReactJS. Using the Themoviedb.org websi
 (Totally responsive !!)
 
 ---
+
+## Deploy 📎
+
+[NETFLIX CLONE](https://compassionate-gates-d0fd73.netlify.app)
+
+![]()
 
 ## How to run ℹ
 
