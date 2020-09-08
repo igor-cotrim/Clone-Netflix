@@ -31,6 +31,8 @@ Project designed to test knowledge about ReactJS. Using the Themoviedb.org websi
 
 ![NETFLIX CLONE](https://github.com/igor-cotrim/CloneNetflix/blob/master/%7B032607A2-EDE2-43EE-A0BF-63D4A68818DA%7D.png.jpg)
 
+---
+
 ## How to run ℹ
 
 ```sh
